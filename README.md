@@ -31,7 +31,7 @@ Here are a few things I’ve been working on (more coming soon!):
 
 - 🕵️‍♀️ **Suspicious IP Inspector**  
   A Streamlit dashboard connected to Snowflake, built to identify suspicious user behavior at scale  
-  [🔗 GitHub Repo](https://github.com/tavily-ai/tavily-dashboard)
+  [🔗 GitHub Repo](https://github.com/tavily-ai)
 
 - 🧠 AI Job Recommender (coming soon)  
   A smart app that matches students with relevant jobs using NLP + LLMs  
